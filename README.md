@@ -37,6 +37,12 @@ let cifrado = codificador (e, n) "hola"
 let original = decodificador (d, n) cifrado
 ```
 
+## Equipo de Desarrollo
+
+- **Campestri Valentin**  
+- **Diessler Bernardo**
+- **Rodriguez Gabriel**
+
 ## Ejecución rápida
 
 Compilar y correr el programa principal:
